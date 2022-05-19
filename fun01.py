@@ -1,0 +1,1 @@
+print("fun 1 added into master branch")
