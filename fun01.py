@@ -1,1 +1,1 @@
-print("fun 1 added into master branch")
+print("fun 1 added into master branch and learn add,commit in one cmd")
